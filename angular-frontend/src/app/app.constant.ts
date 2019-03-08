@@ -1,0 +1,1 @@
+export const APIURL_LOCAL = "http://localhost:3000/api/dataService/";
