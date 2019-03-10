@@ -1,0 +1,36 @@
+.container{
+    width: 80%;
+    height: 100%;
+    margin: 3% 10%;
+    border: 1px solid gray;
+    box-shadow: 5px 5px #888888;
+}
+svg{
+    width: 60%;
+    margin: 1% 20%;    
+}
+
+.node {
+    cursor: pointer;
+}
+
+.node:hover {
+    stroke: #000;
+    stroke-width: 1.5px;
+}
+
+.node--leaf {
+    fill: white;
+}
+
+.label {
+    font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-anchor: middle;
+    text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+}
+
+.label,
+.node--root,
+.node--leaf {
+    pointer-events: none;
+}
