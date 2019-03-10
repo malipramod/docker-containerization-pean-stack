@@ -1,4 +1,4 @@
-# docker-containerization-pean-stack
+# Docker Containerization PEAN Stack
 
     Docker Containerization of PEAN (PostgreSQL, Express, AngularJS, NodeJS) Stack and D3js
 
