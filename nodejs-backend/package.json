@@ -11,7 +11,7 @@
   "author": "Pramod Mali",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "pg": "^7.8.1"
